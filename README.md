@@ -1,2 +1,2 @@
 # ConqueringGit
-ConqueringGit
+ConqueringSVN
